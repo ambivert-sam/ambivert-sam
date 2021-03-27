@@ -1,7 +1,7 @@
-### Hey! This is Samruddhi Wasu! 👋
 
 
-https://user-images.githubusercontent.com/74984661/112729149-ba426080-8f50-11eb-9f63-50e9ff47d626.mp4
+![Pink and Yellow Gamer Girl YouTube Intro](https://user-images.githubusercontent.com/74984661/112729192-f5dd2a80-8f50-11eb-9a03-d9abe9907bb6.gif)
+
 
 
 
