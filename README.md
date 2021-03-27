@@ -1,6 +1,12 @@
 
-
+<div img="web"
 <img src="https://user-images.githubusercontent.com/74984661/112729795-09d65b80-8f54-11eb-8978-0fe8be63cd37.gif" alt="">
+<style>
+ .img{
+ height=50px;
+ width=30px;
+ }
+ </style>
 
 
 
