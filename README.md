@@ -1,11 +1,11 @@
 
 
-<img src="https://user-images.githubusercontent.com/74984661/112729795-09d65b80-8f54-11eb-8978-0fe8be63cd37.gif" alt="">
+  <img src="https://user-images.githubusercontent.com/74984661/112729795-09d65b80-8f54-11eb-8978-0fe8be63cd37.gif" alt="">
 
 
 
-                                                Hey all! Samruddhi Wasu here!
-                                                 Input - process - output 🌼
+                                                   Hey 👋 all, Samruddhi Wasu here!
+                                                  { Input --> process --> output 🌼}
                                                    
 
 
@@ -38,7 +38,7 @@
 -  The Big Bang theory 🎥
 -  Latest Fashion trends 👟 👒
   ( p.s - I'm fashion enthusiast 😜)
-- Design 🎨
+- Design & stuff 🎨
   
  
 
