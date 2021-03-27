@@ -4,8 +4,8 @@
 
 
 
-                                                   Hey 👋 all, Samruddhi Wasu here!
-                                                  { Input --> process --> output 🌼}
+                                                   <h1> Hey 👋 all, Samruddhi Wasu here! </h1>
+                                                 <h2>  { Input --> process --> output 🌼} </h2>
                                                    
 
 
