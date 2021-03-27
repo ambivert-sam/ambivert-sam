@@ -1,5 +1,6 @@
 ### Hey! This is Samruddhi Wasu! 👋
 
+![image](https://user-images.githubusercontent.com/74984661/112726985-2f5c6880-8f46-11eb-8159-ab6d8931a3f3.png)
 
 
 
