@@ -1,6 +1,6 @@
 
 
-![Pink and Yellow Gamer Girl YouTube Intro](https://user-images.githubusercontent.com/74984661/112729192-f5dd2a80-8f50-11eb-9a03-d9abe9907bb6.gif)
+https://user-images.githubusercontent.com/74984661/112729192-f5dd2a80-8f50-11eb-9a03-d9abe9907bb6.gif
 
 
 
