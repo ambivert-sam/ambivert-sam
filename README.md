@@ -4,7 +4,9 @@
 
 
 
-         Hey! Samruddhi Wasu here !
+                                                Hey all! Samruddhi Wasu here!
+                                                 Input - process - output 🌼
+                                                   
 
 
 
@@ -21,8 +23,14 @@
 🌱 I’m currently learning
 - React JS
 - Blockchain ⛓
+
+📌 My Goals 
+- To Build more projects.
+- More Open source contribution .
  
-👯 I’m looking to collaborate more on 
+💜 Technology Love
+- Python
+- Html5 / CSS3
  
  🤔 I’m looking for help with ...
 
@@ -32,9 +40,12 @@
   ( p.s - I'm fashion enthusiast 😜)
 - Design 🎨
   
- 📫 How to reach me: ...
+ 
 
  😄 Pronouns: she/hers
 
  ⚡ Fun fact: 
+ -I'm 2000's kid but love 90's
+
+
 
