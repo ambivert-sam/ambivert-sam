@@ -32,7 +32,7 @@
 - Python
 - Html5 / CSS3
  
- 🤔 I’m looking for help with ...
+
 
  💬 Ask me about 
 -  The Big Bang theory 🎥
