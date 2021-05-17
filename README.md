@@ -31,7 +31,7 @@
 💜 Technology Love
 - Python
 - Html5 
--  CSS3
+- CSS3
 
  
 
