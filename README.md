@@ -73,3 +73,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambivert-sam&show_icons=true&locale=en&layout=compact" alt="ambivert-sam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambivert-sam&show_icons=true&locale=en" alt="ambivert-sam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambivert-sam&" alt="ambivert-sam" /></p>
+
