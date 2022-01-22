@@ -21,7 +21,7 @@
 - And on DS/Algo
  
 🌱 I’m currently learning
-- React JS
+- Flutter
 - Blockchain ⛓
 
 📌 My Goals 
@@ -32,6 +32,7 @@
 - Python
 - Html5 
 - CSS3
+- Dart
 
  
 
