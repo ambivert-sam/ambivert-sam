@@ -26,13 +26,13 @@
 
 📌 My Goals 
 - To Build more projects.
-- More Open source contribution .
+- More Open source contribution.
  
 💜 Technology Love
 - Python
-- Html5 
-- CSS3
-- Dart
+- Linux
+- Web development
+- Devops
 
  
 
